@@ -49,7 +49,7 @@ const TranslateApp = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}> Mahad TranslateApp</Text>
+      <Text style={styles.title}> Mahad Translating App</Text>
       <View
        style={styles.dropdowncontainer}>
         <DropDownPicker 
