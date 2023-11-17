@@ -69,6 +69,8 @@ const TranslateApp = () => {
             {label: 'Somali', value: 'Somali'},
             {label:'Arabic', value: 'Arabic'},
             {label:'Italiano', value: 'Italiano'},
+            {label:'croatian', value: 'Croatia'},
+
             
         ]}
         defaultValue={toLanguage}
