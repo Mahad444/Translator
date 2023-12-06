@@ -91,7 +91,7 @@ const TranslateApp = () => {
     />
         <TouchableOpacity style={styles.button} 
         onPress={translateText}>
-            <Text style={styles.buttontext}>Translate Text</Text>
+            <Text style={styles.buttontext}>Translate Above Text</Text>
 
         </TouchableOpacity>
 <Text style={styles.title2}>Translated Text</Text>
