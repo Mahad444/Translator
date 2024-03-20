@@ -142,7 +142,7 @@ const styles = StyleSheet.create({
     },
     buttontext: {
         color: '#fff',
-        fontSize: 20,
+        fontSize: 21,
         fontWeight: 'bold',
     },
     title2: {
