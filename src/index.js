@@ -72,7 +72,9 @@ const TranslateApp = () => {
             {label:'croatian', value: 'Croatia'},
             {label:'Somali', value: 'Somali'},
             // malyalam
-            {label:'Malyalam',value:'Malyalam'}
+            {label:'Malyalam',value:'Malyalam'},
+            // srilankan
+            {label:'Srilankan',value:'Srilankan'}
         ]}
         defaultValue={toLanguage}
         placeholder="Select Language"
