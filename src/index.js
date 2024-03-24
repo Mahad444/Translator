@@ -74,7 +74,8 @@ const TranslateApp = () => {
             // malyalam
             {label:'Malyalam',value:'Malyalam'},
             // srilankan
-            {label:'Srilankan',value:'Srilankan'}
+            {label:'Srilankan',value:'Srilankan'},
+            {label:"Hindi",value:"Hindi"}
         ]}
         defaultValue={toLanguage}
         placeholder="Select Language"
