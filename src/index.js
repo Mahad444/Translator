@@ -78,6 +78,7 @@ const TranslateApp = () => {
             {label:"Hindi",value:"Hindi"},
             // tamil
             {label:'Tamil',value:'Tamil'},
+            {label:'Urdu',value:'Urdu'},
         ]}
         defaultValue={toLanguage}
         placeholder="Select Language"
