@@ -81,6 +81,8 @@ const TranslateApp = () => {
             {label:'Urdu',value:'Urdu'},
             // farsi
             {label:'Farsi',value:'Farsi'},
+            //zulu
+            {label:'Zulu',value:'Zulu'},
         ]}
         defaultValue={toLanguage}
         placeholder="Select Language"
