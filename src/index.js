@@ -68,8 +68,11 @@ const TranslateApp = () => {
             {label: 'Portuguese', value: 'Portuguese'},
             {label: 'Somali', value: 'Somali'},
             {label:'Arabic', value: 'Arabic'},
+            // italiano
             {label:'Italiano', value: 'Italiano'},
+            // croatia
             {label:'croatian', value: 'Croatia'},
+            // somali
             {label:'Somali', value: 'Somali'},
             // malyalam
             {label:'Malyalam',value:'Malyalam'},
