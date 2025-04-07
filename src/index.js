@@ -86,6 +86,9 @@ const TranslateApp = () => {
             {label:'Farsi',value:'Farsi'},
             //zulu
             {label:'Zulu',value:'Zulu'},
+            // korean with correct korean litral
+            {label:'Korean',value:'Korean'},
+
         ]}
         defaultValue={toLanguage}
         placeholder="Select Language"
