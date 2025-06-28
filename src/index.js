@@ -66,7 +66,9 @@ const TranslateApp = () => {
             {label: 'German', value: 'German'},
             {label: 'Italian', value: 'Italian'},
             {label: 'Portuguese', value: 'Portuguese'},
+            // Somali
             {label: 'Somali', value: 'Somali'},
+            // Arabic
             {label:'Arabic', value: 'Arabic'},
             // italiano
             {label:'Italiano', value: 'Italiano'},
@@ -88,6 +90,7 @@ const TranslateApp = () => {
             {label:'Zulu',value:'Zulu'},
             // korean with correct korean litral
             {label:'Korean',value:'Korean'},
+
 
         ]}
         defaultValue={toLanguage}
