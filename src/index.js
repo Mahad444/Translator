@@ -65,7 +65,8 @@ const TranslateApp = () => {
             {label: 'Spanish', value: 'Spanish'},
             {label: 'German', value: 'German'},
             {label: 'Italian', value: 'Italian'},
-            {label: 'Portuguese', value: 'Portuguese'},
+            // Portugal 
+            {label: 'Portuguese', value: 'Portuguese', flag: require('./assets/flags/portugal.png')},
             // Somali
             {label: 'Somali', value: 'Somali'},
             // Arabic
